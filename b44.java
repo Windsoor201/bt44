@@ -17,7 +17,7 @@ public class Main {
     cars.add("Volvo");
     cars.add("BMW");
     cars.add("Ford");
-    cars.add("Mazda");
+    cars.add("Mazd2a");
     for (int i = 0; i < cars.size(); i++) {
       System.out.println(cars.get(i));
     }
