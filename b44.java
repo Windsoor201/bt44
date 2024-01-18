@@ -5,7 +5,7 @@ public class Main {
     ArrayList<String> cars = new ArrayList<String>();
     cars.add("Volv");
     cars.add("NM2");
-    cars.add("Ford");
+    cars.add("Fod");
     cars.add("Mazda");
     System.out.println(cars);
   }
