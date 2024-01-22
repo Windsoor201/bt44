@@ -6,7 +6,7 @@ public class Main {
     cars.add("Vlv");
     cars.add("N");
     cars.add("Fod");
-    cars.add("Mazda");
+    cars.add("Maza");
     System.out.println(cars);
   }
 }
