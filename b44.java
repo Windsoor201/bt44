@@ -6,7 +6,7 @@ public class Main {
     cars.add("Vv");
     cars.add("N");
     cars.add("Fo");
-    cars.add("Maza");
+    cars.add("Maa");
     System.out.println(cars);
   }
 }
