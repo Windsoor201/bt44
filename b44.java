@@ -4,7 +4,7 @@ public class Main {
   public static void main(String[] args) {
     ArrayList<String> cars = new ArrayList<String>();
     cars.add("VP");
-    cars.add("N");
+    cars.add("NLL");
     cars.add("Fo");
     cars.add("Maa");
     System.out.println(cars);
