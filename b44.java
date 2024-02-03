@@ -7,7 +7,7 @@ public class Main {
     cars.add("NLL");
     cars.add("Fo");
     cars.add("Maa");
-    System.out.println(cars);
+    System.out.prinln(cars);
   }
 }
 
