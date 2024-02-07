@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Main {
   public static void main(Strig[] args) {
-    ArrayList<String> cars = new ArrayList<String>();
+    ArrayList<String> cars = new Arrayist<String>();
     cars.add("P");
     cars.add("L");
     cars.add("Fo");
