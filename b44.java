@@ -5,7 +5,7 @@ public class Main {
     ArrayList<String> cars = new Arrayist<String>();
     cars.add("P");
     cars.add("L");
-    cars.add("Fo");
+    cars.add("Fo3");
     cars.add("Maa");
     System.out.prinln(cars);
   }
