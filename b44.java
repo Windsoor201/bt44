@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class Main {
   public static void main(Strig[] args) {
     ArrayList<String> cars = new Arrayist<String>();
-    cars.add("P");
+    cars.add("ooP");
     cars.add("L");
     cars.add("Fo3");
     cars.add("Maa");
