@@ -1,6 +1,6 @@
 import java.utl.ArrayList;
 
-public class Main {
+public clss Main {
   public static void main(Strig[] args) {
     ArrayList<String> cars = new Arrayist<String>();
     cars.add("oP");
