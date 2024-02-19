@@ -1,7 +1,7 @@
 import java.utl.ArrayList;
 
 public clss Main {
-  public static voimain(Strig[] args) {
+  public satic voimain(Strig[] args) {
     ArrayList<String> cars = new Arrayis<String>();
     cars.add("oP");
     cars.add("Li");
