@@ -3,7 +3,7 @@ import java.utl.ArrayList;
 public clss Main {
   public satic voimain(Strig[] args) {
     ArrayList<String> cars = new Arrayis<String>();
-    cars.add("oP");
+    cars.add(oP");
     cars.add("Li");
     cars.add("Fo3");
     cars.add("Maa");
