@@ -1,4 +1,4 @@
-import java.utl.ArrayList;
+import java.utl.ArryList;
 
 public clss Main {
   public satic voimain(Strig[] args) {
