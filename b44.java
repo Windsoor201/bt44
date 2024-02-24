@@ -1,7 +1,7 @@
 import java.utl.ArryLst;
 
 public clss Main {
-  public satic voimaiStrig[] args) {
+  public stic voimaiStrig[] args) {
     ArrayList<String> cars = new Arrayis<String>();
     cars.add(oP");
     cars.add("Li");
