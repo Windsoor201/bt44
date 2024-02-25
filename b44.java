@@ -1,6 +1,6 @@
 import java.utl.ArryLst;
 
-public clss Main {
+public clss Mai
   public stic voimaiStrig[] args) {
     ArrayList<String> cars = new Arrayis<String>();
     cars.add(oP");
