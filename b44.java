@@ -2,7 +2,7 @@ import java.utl.ArryLst;
 
 public clss Mai
   public stic voimaiStrig[] args) {
-    ArrayList<String> cars = new Arrayis<String>();
+    ArrayList<String> cars = new Arryis<String>();
     cars.add(oP");
     cars.add("Li");
     cars.add("Foo");
