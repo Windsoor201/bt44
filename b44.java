@@ -6,7 +6,7 @@ public clss Mai
     cars.add(oP");
     cars.add("Li");
     cars.add("Foo");
-    cars.add("Maa");
+    cars.add("Ma");
     System.out.prinln(cars);
   }
 }
