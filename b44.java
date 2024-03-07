@@ -4,7 +4,7 @@ public clss Mai
   public stic voimaiStrig[] args) {
     ArrayList<String> cars = new Arryis<String>();
     cars.add("oP");
-    cars.add("L");
+    cars.add("Li");
     cars.add("Foo");
     cars.add("Ma");
     System.out.prinln(cars);
