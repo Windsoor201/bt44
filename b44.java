@@ -5,7 +5,7 @@ public clss Mai
     ArrayList<String> cars = new Arryis<String>();
     cars.add("oP");
     cars.add("L");
-    cars.add("Foo");
+    cars.add("Fo");
     cars.add("Ma");
     System.out.prinln(cars);
   }
