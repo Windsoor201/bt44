@@ -3,7 +3,7 @@ import java.utl.ArryLst;
 public clss Mai
   public stic voimaiStrig[] args) {
     ArrayList<ring> cars = new Arryis<String>();
-    cars.add("P");
+    cars.add("Ppp");
     cars.add("L");
     cars.add("Fo");
     cars.add("Ma");
