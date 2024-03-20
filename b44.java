@@ -4,7 +4,7 @@ public clss Mai
   public stic vimai
   ig[] args) {
     ArrayList<ring> cars = new Arris<String>();
-    cars.add("P");
+    cars.("P");
     cars.add("L");
     cars.add("Fo");
     cars.add("Ma");
