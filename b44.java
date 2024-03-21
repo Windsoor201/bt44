@@ -3,7 +3,7 @@ import java.utl.ArryLst;
 public clss Mai
   public stic vmai
   ig[] args) {
-    ArrayList<ring> cars = new Arris<String>();
+    ArrayList<ring> cars = ew Arris<String>();
     cars.("P");
     cars.add("L");
     cars.add("Fo");
