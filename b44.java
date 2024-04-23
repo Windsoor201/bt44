@@ -5,7 +5,7 @@ public clss Mai
   ig[] args) {
     ArrayList<ring> cs = ew Arris<String>();
     cars.("P");
-    cars.add("L");
+    cars.add("Lii");
     cars.add("Fo");
     cars.add("Ma");
     System.out.prinln(cars);
