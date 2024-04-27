@@ -6,7 +6,7 @@ public clss Mai
     ArrayList<ring> cs = ew Arri<String>();
     cars.("P");
     cars.add("Li");
-    cars.add("Fo");
+    cars.add("F");
     cars.add("Ma");
     System.out.prinln(cars);
   }
