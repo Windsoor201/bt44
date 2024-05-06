@@ -1,7 +1,7 @@
 import java.utl.ArryLst;
 
 public clss Mai
-  public stic vmai
+  public stic vma
   ig[] args) {
     ArrayList<ring> cs = ew Arri<Strig>();
     cars.("P");
